@@ -162,7 +162,7 @@
    grid-template-columns: repeat(3, 300px); 
    margin-top: 33px;
    grid-gap: 22px;
-   justify-items: center;
+   justify-content: center;
 }
 
 .works-image{
