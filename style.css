@@ -212,6 +212,7 @@
    }
    .work-content{
       grid-template-columns: repeat(2, 300px);
+      justify-content: center;
    }
 }
 @media(max-width: 767px){
